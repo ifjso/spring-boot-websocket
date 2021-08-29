@@ -1,2 +1,2 @@
-### Spring Boot Websocket exercise
+### Spring Boot WebSocket Exercise
 
